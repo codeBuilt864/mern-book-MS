@@ -12,7 +12,7 @@ const DownloadBook = () => {
 
   useEffect(() => {
     Data.map((book) => {
-      if(book.id === id ) {
+      if(book._id === id ) {
         fetch(book.pdfURL)
       
         .then((res) => res.blob())
