@@ -1,0 +1,35 @@
+ [
+    {
+        "id":"668235a6711694b9cd803a89",
+        "name": "Next of Kin",
+        "author": "Stephen Tukel Mills",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348810069i/325779.jpg",
+        "pdfURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348810069i/325779.jpg",
+        "__v": 0
+      }, 
+    {
+        "id":"66801f051e750822d3e80872",
+        "name": "Lone Women",
+        "author": "Victor LaValle",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673265868i/60460704.jpg",
+        "pdfURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673265868i/60460704.jpg",
+        "__v": 0
+      },
+      {
+        "id": "66861feca4f3646e03e71f37",
+        "name": "The year is 1984 and the city is Tokyo",
+        "author": "Haruki Murakami",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483103331l/10357575.jpg",
+        "pdfURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483103331l/10357575.jpg",
+        "__v": 0
+      },
+      {
+        "id":  "668a0610d283d10493e518b9",
+        "name": "The Right Move",
+        "author": "Liz Tomforde",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674590603i/84943172.jpg",
+        "pdfURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674590603i/84943172.jpg",
+        "__v": 0
+      }
+
+]
