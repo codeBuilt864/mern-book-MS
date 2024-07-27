@@ -1,12 +1,19 @@
- [
-  {"_id":"668e20577ef33de7604a3e68","name":"A Thousand Mornings:","author":"Mary Oliver","imageUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345433150i/13588404.jpg","pdfURL":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345433150i/13588404.jpg","__v":{"$numberInt":"0"}
-},
-  {"_id":"668e2122b1d2d9cf7a73f2a9","name":"Barack Obama ","author":"Barack Obama ","imageUrl":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604286292l/55359022._SY475_.jpg","pdfURL":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604286292l/55359022._SY475_.jpg","__v":{"$numberInt":"0"}
-},
-  {"_id":"668e2160b1d2d9cf7a73f2ad","name":"Mischief Farm","author":"Hilarie Burton Morgan","imageUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581695312i/51082172.jpg","pdfURL":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581695312i/51082172.jpg","__v":{"$numberInt":"0"}
-},
-  {"_id":"668e2163b1d2d9cf7a73f2af","name":"Mischief Farm","author":"Hilarie Burton Morgan","imageUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581695312i/51082172.jpg","pdfURL":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581695312i/51082172.jpg","__v":{"$numberInt":"0"}
-},
-  {"_id":"668e2195b1d2d9cf7a73f2b3","name":"The Adventurer's Son","author":"Roman Dial","imageUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571076286i/46041442.jpg","pdfURL":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571076286i/46041442.jpg","__v":{"$numberInt":"0"}
-}
+[
+  {
+    "_id": "66975b8f351322f70dc74be7",
+    "name": "computer sceince",
+    "author": "2018",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348810069i/325779.jpg",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=131NibjvY1-ODQaekIvWfz3sLyJBGrVLu",
+    "__v": 0
+  },
+  {
+    "_id": "6697734fdb8365e4dfad3d38",
+    "name": "pdf",
+    "author": "yaseer",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348810069i/325779.jpg",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=131NibjvY1-ODQaekIvWfz3sLyJBGrVLu",
+    "__v": 0
+  }
+ 
 ]

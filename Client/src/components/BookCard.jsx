@@ -7,19 +7,17 @@ const BookCard = ({book, role}) => {
     <div className='book-card'>
         <img src={imageUrl} alt={name} className='book-image'/>
         <div className="book-details">
-            <h3>{name}</h3>
-            <p>{author}</p>
         </div>
         {role === "admin" &&
           <div className="book-actions">
           <button><Link to={`/book/${book._id}`} className='btn-link'>edit</Link></button>
           <button><Link to={`/delete/${book._id}`} className='btn-link'>delete</Link></button>
-          <button><Link to={`/download/${book._id}`} className='btn-link'>download</Link></button>
+          <button><Link to={`/download/${book._id}`} className='btn-link'>Details</Link></button>
       </div>}
 
         {role === "student" &&
           <div>
-          <button><Link to={`/download/${book._id}`} className='btn-link'>download</Link></button>
+          <button><Link to={`/download/${book._id}`} className='btn-link'>Details</Link></button>
           </div>}
         
     </div>

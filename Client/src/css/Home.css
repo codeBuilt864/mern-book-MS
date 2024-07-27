@@ -20,17 +20,19 @@
     font-size: 3rem;
     margin-bottom: 10px;
     word-spacing: 1%;
+    margin-left: 80px;
 }
 
 .hero-description{
     font-size: 1.2rem;
-    max-width: 400px;
+    max-width: 500px;
     margin-bottom: 20px;
+    margin-left: 80px;
 }
 
 .hero-image{
     flex: 1;
-    background: url('images/') center;
-    background-size: 90%;
+    background: url('../images/book.png') center;
+    background-size: 50%;
     background-repeat: no-repeat;
 }

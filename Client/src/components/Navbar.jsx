@@ -10,7 +10,6 @@ const Navbar = ({role}) => {
         </div>
         <div className='navbar-right'>
             <Link to='/books' className='navbar-link'>Books</Link>
-            <Link to='/service' className='navbar-link'>Service</Link>
             <Link to='/contact' className='navbar-link'>Contact</Link>
             {role === 'admin' && <>
                  <Link to='/addbook' className='navbar-link'>Add Book</Link>

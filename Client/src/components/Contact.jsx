@@ -42,7 +42,7 @@ const Contact = () => {
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem maxime, necessitatibus quisquam ducimus dolor.</p>
                 <div className="contact-details">
                     <div className="contact-detail">
-                        <img src={mail_icon} alt="" /> <p>greatstacktive@gmail.com</p>
+                        <img src={mail_icon} alt="" /> <p>codecrushes@gmail.com</p>
                     </div>
                     <div className="contact-detail">
                         <img src={call_icon} alt="" /> <p>085126372</p>

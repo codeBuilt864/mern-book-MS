@@ -10,7 +10,7 @@ const Books = ({role}) => {
     .then(res => {
       setBooks(res.data)
       // console.log(res.data)
-    }).catch(err => console.log(er))
+    }).catch(err => console.log(err))
   },[])
   return (
     <div className='book-list'>

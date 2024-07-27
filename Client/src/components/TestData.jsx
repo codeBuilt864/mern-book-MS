@@ -1,5 +1,6 @@
 import React from 'react'
 import Data from "../../../Server/data/pdfData.json"
+import '../css/Book.css'
 
 const TestData = () => {
     return (
@@ -15,16 +16,6 @@ const TestData = () => {
               </div>
             ))
           }
-             check? (
-      <div>
-        <button onClick={() => FileDownload(check, "Book.pdf")}>Download</button>
-      </div>
-    ) : (
-      <div>
-        <p>No PDF available</p>
-      </div>
-    )
-  )
         </div>
       )
 }

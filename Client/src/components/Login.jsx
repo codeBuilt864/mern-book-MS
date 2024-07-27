@@ -21,7 +21,7 @@ const handleSubmit = () => {
       navigate('/dashboard')
     } else if(res.data.login && res.data.role === 'student') {
       setRoleVar('student')
-      navigate('/')
+      navigate('/service')
     }
     console.log(res)
   })

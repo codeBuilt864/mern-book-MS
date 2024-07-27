@@ -61,16 +61,16 @@ router.delete('/book/:id', async (req, res) =>{
     
 })
 
-router.get('/books/:id', async (req, res) => {
-    try {
-        const id = req.params.id;
-        const book = await Book.downloaded({_id: id}, req.body)
-        return res.json({downloaded: true, book})
+// router.get('/books/:id', async (req, res) => {
+//     try {
+//         const id = req.params.id;
+//         const book = await Book.downloaded({_id: id}, req.body)
+//         return res.json({downloaded: true, book})
 
-    } catch (err) {
-        return res.json(err)
-    }
-})
+//     } catch (err) {
+//         return res.json(err)
+//     }
+// })
 
 // router.get('/books/:id', async (req, res) => {
 //     res.download("../data/pdfData.js")
